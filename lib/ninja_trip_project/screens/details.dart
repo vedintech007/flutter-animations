@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animations/models/trip.dart';
-import 'package:flutter_animations/shared/heart.dart';
+import 'package:flutter_animations/ninja_trip_project/models/trip.dart';
+import 'package:flutter_animations/ninja_trip_project/shared/heart.dart';
 // import 'package:lipsum/lipsum.dart' as lipsum;
 import 'package:ipsum/ipsum.dart' as lipsum;
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animations/models/trip.dart';
-import 'package:flutter_animations/screens/details.dart';
+import 'package:flutter_animations/ninja_trip_project/models/trip.dart';
+import 'package:flutter_animations/ninja_trip_project/screens/details.dart';
 
 class TripList extends StatefulWidget {
   const TripList({super.key});

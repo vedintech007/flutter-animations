@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animations/reso_coder/basic_animation_page.dart';
+import 'package:flutter_animations/ninja_trip_project/screens/home.dart';
 
 void main() {
   runApp(const MyApp());
